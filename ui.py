@@ -195,7 +195,7 @@ class Ui_Form(object):
 
     def retranslateUi(self, Form):
         _translate = QtCore.QCoreApplication.translate
-        Form.setWindowTitle(_translate("Form", "计算机网络课程设计-UDP聊天设计"))
+        Form.setWindowTitle(_translate("Form", "UDP聊天设计"))
         self.pushButton.setText(_translate("Form", "发送/(回车)"))
         self.groupBox.setTitle(_translate("Form", "连接"))
         self.label.setText(_translate("Form", "IP地址:"))
