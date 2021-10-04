@@ -18,17 +18,17 @@ class Ui_Form(object):
         self.pushButton = QtWidgets.QPushButton(Form)
         self.pushButton.setGeometry(QtCore.QRect(520, 400, 121, 41))
         self.pushButton.setStyleSheet("display: inline-block;\n"
-"height: 38px;\n"
-"line-height: 38px;\n"
-"padding: 0 18px;\n"
-"background-color: #17bd88;\n"
-"color: #fff;\n"
-"white-space: nowrap;\n"
-"text-align: center;\n"
-"font-size: 14px;\n"
-"border: none;\n"
-"border-radius: 2px;\n"
-"cursor: pointer;")
+                                      "height: 38px;\n"
+                                      "line-height: 38px;\n"
+                                      "padding: 0 18px;\n"
+                                      "background-color: #17bd88;\n"
+                                      "color: #fff;\n"
+                                      "white-space: nowrap;\n"
+                                      "text-align: center;\n"
+                                      "font-size: 14px;\n"
+                                      "border: none;\n"
+                                      "border-radius: 2px;\n"
+                                      "cursor: pointer;")
         self.pushButton.setObjectName("pushButton")
         self.groupBox = QtWidgets.QGroupBox(Form)
         self.groupBox.setGeometry(QtCore.QRect(510, 10, 271, 191))
@@ -92,32 +92,32 @@ class Ui_Form(object):
         self.pushButton_2 = QtWidgets.QPushButton(self.groupBox)
         self.pushButton_2.setGeometry(QtCore.QRect(30, 150, 101, 31))
         self.pushButton_2.setStyleSheet("display: inline-block;\n"
-"height: 38px;\n"
-"line-height: 38px;\n"
-"padding: 0 18px;\n"
-"background-color: #17bd88;\n"
-"color: #fff;\n"
-"white-space: nowrap;\n"
-"text-align: center;\n"
-"font-size: 14px;\n"
-"border: none;\n"
-"border-radius: 2px;\n"
-"cursor: pointer;")
+                                        "height: 38px;\n"
+                                        "line-height: 38px;\n"
+                                        "padding: 0 18px;\n"
+                                        "background-color: #17bd88;\n"
+                                        "color: #fff;\n"
+                                        "white-space: nowrap;\n"
+                                        "text-align: center;\n"
+                                        "font-size: 14px;\n"
+                                        "border: none;\n"
+                                        "border-radius: 2px;\n"
+                                        "cursor: pointer;")
         self.pushButton_2.setObjectName("pushButton_2")
         self.pushButton_3 = QtWidgets.QPushButton(self.groupBox)
         self.pushButton_3.setGeometry(QtCore.QRect(150, 150, 101, 31))
         self.pushButton_3.setStyleSheet("display: inline-block;\n"
-"height: 38px;\n"
-"line-height: 38px;\n"
-"padding: 0 18px;\n"
-"background-color:#e74c3c;\n"
-"color: #fff;\n"
-"white-space: nowrap;\n"
-"text-align: center;\n"
-"font-size: 14px;\n"
-"border: none;\n"
-"border-radius: 2px;\n"
-"cursor: pointer;")
+                                        "height: 38px;\n"
+                                        "line-height: 38px;\n"
+                                        "padding: 0 18px;\n"
+                                        "background-color:#e74c3c;\n"
+                                        "color: #fff;\n"
+                                        "white-space: nowrap;\n"
+                                        "text-align: center;\n"
+                                        "font-size: 14px;\n"
+                                        "border: none;\n"
+                                        "border-radius: 2px;\n"
+                                        "cursor: pointer;")
         self.pushButton_3.setObjectName("pushButton_3")
         self.lineEdit = QtWidgets.QLineEdit(Form)
         self.lineEdit.setGeometry(QtCore.QRect(10, 400, 491, 41))
@@ -177,17 +177,17 @@ class Ui_Form(object):
         self.pushButton_4 = QtWidgets.QPushButton(Form)
         self.pushButton_4.setGeometry(QtCore.QRect(650, 400, 121, 41))
         self.pushButton_4.setStyleSheet("display: inline-block;\n"
-"height: 38px;\n"
-"line-height: 38px;\n"
-"padding: 0 18px;\n"
-"background-color: #3498db;\n"
-"color: #fff;\n"
-"white-space: nowrap;\n"
-"text-align: center;\n"
-"font-size: 14px;\n"
-"border: none;\n"
-"border-radius: 2px;\n"
-"cursor: pointer;")
+                                        "height: 38px;\n"
+                                        "line-height: 38px;\n"
+                                        "padding: 0 18px;\n"
+                                        "background-color: #3498db;\n"
+                                        "color: #fff;\n"
+                                        "white-space: nowrap;\n"
+                                        "text-align: center;\n"
+                                        "font-size: 14px;\n"
+                                        "border: none;\n"
+                                        "border-radius: 2px;\n"
+                                        "cursor: pointer;")
         self.pushButton_4.setObjectName("pushButton_4")
 
         self.retranslateUi(Form)
